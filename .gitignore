@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+venv/
+.venv/
+sales_data.json
+final_report.txt
+.DS_Store
